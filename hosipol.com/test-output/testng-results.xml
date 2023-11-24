@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-13T16:01:19 IST" name="Default suite" finished-at="2023-09-13T16:01:38 IST" duration-ms="18689">
+    <groups>
+    </groups>
+    <test started-at="2023-09-13T16:01:19 IST" name="Default test" finished-at="2023-09-13T16:01:38 IST" duration-ms="18689">
+      <class name="com.testcases.Logintest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.testcases.Logintest@4562e04d]" started-at="2023-09-13T16:01:20 IST" name="initialize" finished-at="2023-09-13T16:01:24 IST" duration-ms="4130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifylogin()[pri:1, instance:com.testcases.Logintest@4562e04d]" started-at="2023-09-13T16:01:24 IST" name="verifylogin" finished-at="2023-09-13T16:01:29 IST" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.testcases.Logintest@4562e04d]" started-at="2023-09-13T16:01:29 IST" name="initialize" finished-at="2023-09-13T16:01:31 IST" duration-ms="2308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verifyurl()[pri:2, instance:com.testcases.Logintest@4562e04d]" started-at="2023-09-13T16:01:31 IST" name="verifyurl" finished-at="2023-09-13T16:01:38 IST" duration-ms="7129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+      </class> <!-- com.testcases.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
